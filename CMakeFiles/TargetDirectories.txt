@@ -1,0 +1,5 @@
+/home/jason/Documents/stm32/easyfoc/CMakeFiles/easyfoc.dir
+/home/jason/Documents/stm32/easyfoc/CMakeFiles/edit_cache.dir
+/home/jason/Documents/stm32/easyfoc/CMakeFiles/rebuild_cache.dir
+/home/jason/Documents/stm32/easyfoc/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+/home/jason/Documents/stm32/easyfoc/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir

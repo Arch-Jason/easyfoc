@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "math.h": "c",
+        "stdbool.h": "c",
+        "main.h": "c",
+        "usart.h": "c",
+        "atc.h": "c",
+        "foc.h": "c"
+    }
+}
